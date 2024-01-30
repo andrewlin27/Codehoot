@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Codehoot/static/css/main.5c4bb6eb.css",
-    "main.js": "/Codehoot/static/js/main.882009a5.js",
+    "main.js": "/Codehoot/static/js/main.6cb9837c.js",
     "static/js/266.06ccb0b2.chunk.js": "/Codehoot/static/js/266.06ccb0b2.chunk.js",
     "static/js/4450.c10c0eb9.chunk.js": "/Codehoot/static/js/4450.c10c0eb9.chunk.js",
     "static/js/8849.fd1aabcf.chunk.js": "/Codehoot/static/js/8849.fd1aabcf.chunk.js",
@@ -55,10 +55,10 @@
     "static/js/5729.ac08bc12.chunk.js": "/Codehoot/static/js/5729.ac08bc12.chunk.js",
     "index.html": "/Codehoot/index.html",
     "main.5c4bb6eb.css.map": "/Codehoot/static/css/main.5c4bb6eb.css.map",
-    "main.882009a5.js.map": "/Codehoot/static/js/main.882009a5.js.map"
+    "main.6cb9837c.js.map": "/Codehoot/static/js/main.6cb9837c.js.map"
   },
   "entrypoints": [
     "static/css/main.5c4bb6eb.css",
-    "static/js/main.882009a5.js"
+    "static/js/main.6cb9837c.js"
   ]
 }
